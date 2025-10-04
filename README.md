@@ -1,26 +1,16 @@
-# CarBuddy
-Door-To-Door Car Service app
+# car_buddy
 
-INTRODUCTION 
- 
-"CarBuddy" 
- 
- Welcome to CarBuddy, an innovative mobile application and 
-digital platform designed to revolutionize car maintenance by 
-connecting customers with mechanics and service providers for 
-door-to-door car servicing. 
- 
- The platform includes a Real-Time Mechanic Tracking system 
-that provides users with transparency and helps reduce waiting 
-anxiety. This feature allows users to book car service from their 
-home, choose service types, and track the assigned mechanic's 
-exact location live on a map. 
- 
- This platform allows users to book their car service by selecting 
-a preferred date and time slot. It also offers a marketplace where 
-users can choose from various car services like oil changes, tire 
-replacements, or AC repairs. 
- 
- Our main goal is to help car owners save time, avoid the need 
-to visit garages, and provide a smooth, transparent, and 
-user-friendly car maintenance experience.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
